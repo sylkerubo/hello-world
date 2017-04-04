@@ -1,2 +1,3 @@
 # hello-world
-learning Github
+Learning Github
+I am using The Odin Project to learn web development
